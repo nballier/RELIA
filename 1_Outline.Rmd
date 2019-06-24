@@ -46,6 +46,8 @@ INSTRUCTIONS (to be continued)
 
 
 
+
+
 8. JB:  writing your first Jupyter notebook
 Asignment : submitting your abstract / read existing notebooks on 18th century dictionaries
 

@@ -76,6 +76,12 @@ From the CONNLL format to Arborator visualisations : https://arborator.ilpga.fr/
 12. Designing a poster (overleaf)
 January : poster session at Descartes
 
+POSTER SESSION : Januray 17th, 9h30-12h30,
+- information about MAs (Paris 5 / Paris 7)
+- MA students from the 
+
+
+
 
 **Second semester** 
 Scikit-learn: Machine Learning in Python (Pedregosa et al. 2011): the basics

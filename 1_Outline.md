@@ -22,61 +22,59 @@ LAteX for posters and presentations, etc.\\
 
 **4. JB  The art of writing a conference abstract, finding references on Google Scholar, storing them with Zotero/Mendeley in Bibtex format (Oct. 10).**
 Assignment: create an overleaf abstract, search models for abstracts for conferences. 
+Assignment : prepare a template for an [LREC2020 paper](https://lrec2020.lrec-conf.org/en/)
 
-**5. NB (JB): : case study 1.  the Carnagie Mellon university phonetic dictionary**
+**5. NB (JB): : case study 1.  the Carnagie Mellon university phonetic dictionary (Oct 17) **
 the basics of morphophonology : main concepts, open access databases
 Assignment : recode with IPA symbols, a few regex scripts for data wrangling 
 
-**6 JB (NB) the CMU dictionary and related python libraries**
+**6 JB (NB) the CMU dictionary and related python libraries (Oct 24)**
 [library pronouncing](https://pronouncing.readthedocs.io/en/latest/tutorial.html)
 data cleaning  and data wrangling on the CMU (regex) \\
 setting up your own github and post your first scripts\\
 
 
-**7. NB (JB) Creating a dataset : out of the CMU dictionary** 
+**7. NB (JB) Creating a dataset : out of the CMU dictionary (Nov 7)** 
 ML: predicting a class (final consonant and initial consonant)
 INSTRUCTIONS (to be continued)
 1. split the words into syllables
 2. use the syllable as the last column.
 3. extract last consonant
 
-**8. JB:  writing your first Jupyter notebook**
+**8. JB:  writing your first Jupyter notebook (Nov 14)**
 Assignment : submitting your abstract / read existing notebooks on 18th century dictionaries\\
 
 
-**9. NB: Walker dictionary : suffix extraction and the Linguistica tool and library**
+**9. NB: Buchanan dictionary : suffix extraction and the Linguistica tool and library (Nov 21)**
 [Examples with Buchanan's dictionary:](https://nbviewer.jupyter.org/urls/gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro/raw/master/Buchanan_eng.ipynb?flush_cache=true)\\
 [Comparison between Buchanan and Walker:](https://nbviewer.jupyter.org/urls/gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro/raw/master/Buchanan-Walker_Exploration-Syneresis.ipynb?flush_cache=true)\\
 
 Assignment: read the Goldsmisth et al. paper \\
 Install the [linguistica library](https://pypi.org/project/linguistica/)\\
 
-**10. JB:  Python library linguistica**
+**10. JB:  Python library linguistica (Nov 28)**
 http://linguistica-uchicago.github.io/lxa5/
 data : case study 2: the Brown corpus and the Linguistica library (Goldsmith 2015) : the unsupervised learning of morphological stems and inflectional paradigms
 
 NB : Computational approaches to linguistics: Lu 2014  (Treetagger and PoS-tagging) low level annotation : Pos-tagging 
 Assignment : do Part of speech annotation for 18th century dictionaries \\
 
-**11:  JB the spaCy library: parsing data** 
+**11:  JB the spaCy library: parsing data (Dec 5)** 
 [SpaCy](https://spacy.io/)
 
-**12. NB: Using Spacy annotation to isolate zero relatives** 
-Estimate precision and recall of a script for a given linguistic structure: \\
-[script](https://github.com/kimgerdes/SUD/blob/master/tools/searchRelatives.py)\\
-From the CONNLL format to Arborator visualisations : https://arborator.ilpga.fr/q.cgi \\
-
+**12. NB: Using Spacy annotation to isolate zero relatives (Dec 12)** 
+Estimate precision and recall of a script for a given linguistic structure:/ 
+[script](https://github.com/kimgerdes/SUD/blob/master/tools/searchRelatives.py)/
+From the CONNLL format to Arborator visualisations : https://arborator.ilpga.fr/q.cgi /
 
 12. Designing a poster (overleaf)
 January : poster session at Descartes
 
-POSTER SESSION : January 17th, 9h30-12h30,
+**POSTER SESSION : January 17th, 9h30-12h30**
 - information about MAs (Paris 5 / Paris 7)
 - MA students from the master in Machine Learning for Data Science 
 
-
-
-
 **Second semester** 
 Scikit-learn: Machine Learning in Python (Pedregosa et al. 2011): the basics
-Motivated students will sumbit a collective paper.
+Motivated students will submit a collective paper.
+

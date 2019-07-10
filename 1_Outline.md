@@ -44,16 +44,16 @@ Assignment : find all the words with the KIT vowel.
 **8. JB:  writing your first Jupyter notebook (Nov 14)**
 Assignment : submitting your abstract / read existing notebooks on 18th century dictionaries <br/>
 
-**9. NB: Buchanan dictionary : suffix extraction and the Linguistica tool and library (Nov 21)**
+**9. NB: Buchanan dictionary : suffix extraction and the Linguistica tool and library (Nov 21)** <br/>
 [Examples with Buchanan's dictionary:](https://nbviewer.jupyter.org/urls/gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro/raw/master/Buchanan_eng.ipynb?flush_cache=true) <br/>
 [Comparison between Buchanan and Walker:](https://nbviewer.jupyter.org/urls/gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro/raw/master/Buchanan-Walker_Exploration-Syneresis.ipynb?flush_cache=true) <br/>
 
-Assignment: read the Goldsmisth et al. paper \\
+Assignment: read the Goldsmisth et al. paper <br/>
 Install the [linguistica library](https://pypi.org/project/linguistica/) <br/>
 
 **10. JB:  Python library linguistica (Nov 28)**
-http://linguistica-uchicago.github.io/lxa5/
-data : case study 2: the Brown corpus and the Linguistica library (Goldsmith 2015) : the unsupervised learning of morphological stems and inflectional paradigms
+http://linguistica-uchicago.github.io/lxa5/ <br/>
+data : case study 2: the Brown corpus and the Linguistica library (Goldsmith 2015) : the unsupervised learning of morphological stems and inflectional paradigms <br/>
 
 NB : Computational approaches to linguistics: Lu 2014  (Treetagger and PoS-tagging) low level annotation : Pos-tagging 
 Assignment : do Part of speech annotation for 18th century dictionaries \\

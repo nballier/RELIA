@@ -26,7 +26,7 @@ Assignment: create an overleaf abstract, search models for abstracts for confere
 Assignment : prepare a template for an [LREC2020 paper](https://lrec2020.lrec-conf.org/en/)
 
 
-**5. NB (JB): : case study 1.  the Carnagie Mellon university phonetic dictionary (Oct 17) **
+**5. NB (JB): : case study 1.  the Carnagie Mellon university phonetic dictionary (Oct 17) ** <br/>
 the basics of morphophonology : main concepts, open access databases
 Assignment : recode with IPA symbols, a few regex scripts for data wrangling 
 

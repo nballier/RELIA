@@ -12,13 +12,13 @@ Assignment : with your classmate : install the CMU library, install Latex (creat
 From sound to meaning, basic terms and available linguistic programs
 -> outline the project and the learning curve  
  Describe available tools for automatic analysis of linguistic data
-  [Phonetic conversion (and text to speech)](https://tophonetics.com/)
-  [French parsing on line](http://5.135.166.30/send2UDPIPE.html)
-  [English parsing, Part-of-speech tagging, Stanford's suite of tools:](http://corenlp.run/)
+  [Phonetic conversion (and text to speech)](https://tophonetics.com/)\\
+  [French parsing on line](http://5.135.166.30/send2UDPIPE.html)\\
+  [English parsing, Part-of-speech tagging, Stanford's suite of tools:](http://corenlp.run/)\\
 
 **32. JB : Using Latex and templates for papers (Oct 3)**
-the architecture of a scientific paper (stylesheet as textual structure)
-LAteX for posters and presentations, etc.
+the architecture of a scientific paper (stylesheet as textual structure)\\
+LAteX for posters and presentations, etc.\\
 
 **4. JB  The art of writing a conference abstract, finding references on Google Scholar, storing them with Zotero/Mendeley in Bibtex format (Oct. 10).**
 Assignment: create an overleaf abstract, search models for abstracts for conferences. 
@@ -27,10 +27,11 @@ Assignment: create an overleaf abstract, search models for abstracts for confere
 the basics of morphophonology : main concepts, open access databases
 Assignment : recode with IPA symbols, a few regex scripts for data wrangling 
 
-
 **6 JB (NB) the CMU dictionary and related python libraries**
 [library pronouncing](https://pronouncing.readthedocs.io/en/latest/tutorial.html)
-data cleaning  and data wrangling on the CMU (regex) : setting up your own github and post your first scripts
+data cleaning  and data wrangling on the CMU (regex) \\
+setting up your own github and post your first scripts\\
+
 
 **7. NB (JB) Creating a dataset : out of the CMU dictionary** 
 ML: predicting a class (final consonant and initial consonant)
@@ -40,39 +41,38 @@ INSTRUCTIONS (to be continued)
 3. extract last consonant
 
 **8. JB:  writing your first Jupyter notebook**
-Assignment : submitting your abstract / read existing notebooks on 18th century dictionaries
+Assignment : submitting your abstract / read existing notebooks on 18th century dictionaries\\
 
 
 **9. NB: Walker dictionary : suffix extraction and the Linguistica tool and library**
-[Examples with Buchanan's dictionary:](https://nbviewer.jupyter.org/urls/gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro/raw/master/Buchanan_eng.ipynb?flush_cache=true)
-[Comparison between Buchanan and Walker:](https://nbviewer.jupyter.org/urls/gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro/raw/master/Buchanan-Walker_Exploration-Syneresis.ipynb?flush_cache=true)
+[Examples with Buchanan's dictionary:](https://nbviewer.jupyter.org/urls/gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro/raw/master/Buchanan_eng.ipynb?flush_cache=true)\\
+[Comparison between Buchanan and Walker:](https://nbviewer.jupyter.org/urls/gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro/raw/master/Buchanan-Walker_Exploration-Syneresis.ipynb?flush_cache=true)\\
 
-Assignment: read the Goldsmisth et al. paper 
-Install the [linguistica library](https://pypi.org/project/linguistica/)
+Assignment: read the Goldsmisth et al. paper \\
+Install the [linguistica library](https://pypi.org/project/linguistica/)\\
 
 **10. JB:  Python library linguistica**
 http://linguistica-uchicago.github.io/lxa5/
 data : case study 2: the Brown corpus and the Linguistica library (Goldsmith 2015) : the unsupervised learning of morphological stems and inflectional paradigms
 
 NB : Computational approaches to linguistics: Lu 2014  (Treetagger and PoS-tagging) low level annotation : Pos-tagging 
-Assignment : do Part of speech annotation for 18th century dictionaries 
+Assignment : do Part of speech annotation for 18th century dictionaries \\
 
 **11:  JB the spaCy library: parsing data** 
 [SpaCy](https://spacy.io/)
 
 **12. NB: Using Spacy annotation to isolate zero relatives** 
-Estimate precision and recall of a script for a given linguistic structure: 
-[script](https://github.com/kimgerdes/SUD/blob/master/tools/searchRelatives.py)
-From the CONNLL format to Arborator visualisations : https://arborator.ilpga.fr/q.cgi
-
+Estimate precision and recall of a script for a given linguistic structure: \\
+[script](https://github.com/kimgerdes/SUD/blob/master/tools/searchRelatives.py)\\
+From the CONNLL format to Arborator visualisations : https://arborator.ilpga.fr/q.cgi \\
 
 
 12. Designing a poster (overleaf)
 January : poster session at Descartes
 
-POSTER SESSION : Januray 17th, 9h30-12h30,
+POSTER SESSION : January 17th, 9h30-12h30,
 - information about MAs (Paris 5 / Paris 7)
-- MA students from the 
+- MA students from the master in Machine Learning for Data Science 
 
 
 

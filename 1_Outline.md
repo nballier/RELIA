@@ -2,7 +2,13 @@
 
 This basic initiation to natural language processing (and mining of linguistic data) covers the following points :
 
-**1. NB (JB) : Linguistics/NLP for dummies** 
+
+**1. JB (NB):  python for dummies (Sept 19)** 
+Basic notions (loops) and commands to understand python 
+
+Assignment : with your classmate : install the CMU library, install Latex (create your own overleaf account). 
+
+**2. NB (JB) : Linguistics/NLP for dummies (Sept. 26)** 
 From sound to meaning, basic terms and available linguistic programs
 -> outline the project and the learning curve  
  Describe available tools for automatic analysis of linguistic data
@@ -10,22 +16,12 @@ From sound to meaning, basic terms and available linguistic programs
   [French parsing on line](http://5.135.166.30/send2UDPIPE.html)
   [English parsing, Part-of-speech tagging, Stanford's suite of tools:](http://corenlp.run/)
 
-
-Assignment : with your classmate : install ANACONDA, pip, python,
-
-**2. JB (NB):  python for dummies** 
-Basic notions (loops) and commands to understand python 
-
-Assignment : with your classmate : install the CMU library, install Latex (create your own overleaf account)  
-
-
-**3. NB : The art of writing a conference abstract, finding references on Google Scholar, storing them with Zotero/Mendeley in Bibtex format.**
-
- Assignment: create an overleaf abstract, search models for abstracts for conferences. 
-
-**4. JB : Using Latex and templates for papers**
-: the architecture of a scientific paper (stylesheet as textual structure)
+**32. JB : Using Latex and templates for papers (Oct 3)**
+the architecture of a scientific paper (stylesheet as textual structure)
 LAteX for posters and presentations, etc.
+
+**4. JB  The art of writing a conference abstract, finding references on Google Scholar, storing them with Zotero/Mendeley in Bibtex format (Oct. 10).**
+Assignment: create an overleaf abstract, search models for abstracts for conferences. 
 
 **5. NB (JB): : case study 1.  the Carnagie Mellon university phonetic dictionary**
 the basics of morphophonology : main concepts, open access databases
@@ -36,7 +32,6 @@ Assignment : recode with IPA symbols, a few regex scripts for data wrangling
 [library pronouncing](https://pronouncing.readthedocs.io/en/latest/tutorial.html)
 data cleaning  and data wrangling on the CMU (regex) : setting up your own github and post your first scripts
 
-
 **7. NB (JB) Creating a dataset : out of the CMU dictionary** 
 ML: predicting a class (final consonant and initial consonant)
 INSTRUCTIONS (to be continued)
@@ -44,9 +39,8 @@ INSTRUCTIONS (to be continued)
 2. use the syllable as the last column.
 3. extract last consonant
 
-
 **8. JB:  writing your first Jupyter notebook**
-Asignment : submitting your abstract / read existing notebooks on 18th century dictionaries
+Assignment : submitting your abstract / read existing notebooks on 18th century dictionaries
 
 
 **9. NB: Walker dictionary : suffix extraction and the Linguistica tool and library**

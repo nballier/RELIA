@@ -63,9 +63,9 @@ Assignment : do Part of speech annotation for 18th century dictionaries \\
 [SpaCy](https://spacy.io/)
 
 **12. NB: Using Spacy annotation to isolate zero relatives (Dec 12)** 
-Estimate precision and recall of a script for a given linguistic structure:/ 
-[script](https://github.com/kimgerdes/SUD/blob/master/tools/searchRelatives.py)/
-From the CONNLL format to Arborator visualisations : https://arborator.ilpga.fr/q.cgi /
+Estimate precision and recall of a script for a given linguistic structure: <br/> 
+[script](https://github.com/kimgerdes/SUD/blob/master/tools/searchRelatives.py) \
+From the CONNLL format to Arborator visualisations : https://arborator.ilpga.fr/q.cgi \
 
 12. Designing a poster (overleaf)
 January : poster session at Descartes

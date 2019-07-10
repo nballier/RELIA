@@ -16,19 +16,18 @@ From sound to meaning, basic terms and available linguistic programs
   [English parsing, Part-of-speech tagging, Stanford's suite of tools:](http://corenlp.run/)\\
 
 
-**32. JB : Using Latex and templates for papers (Oct 3)**
+**3. JB : Using Latex and templates for papers (Oct 3)**
 the architecture of a scientific paper (stylesheet as textual structure)\\
 LAteX for posters and presentations, etc.\\
 
 
 **4. JB  The art of writing a conference abstract, finding references on Google Scholar, storing them with Zotero/Mendeley in Bibtex format (Oct. 10).**
 Assignment: create an overleaf abstract, search models for abstracts for conferences. <br/>
-Assignment : prepare a template for an [LREC2020 paper](https://lrec2020.lrec-conf.org/en/)
+Assignment : prepare a template for an [LREC2020 paper](https://lrec2020.lrec-conf.org/en/)<br/>
 
-
-**5. NB (JB): : case study 1.  the Carnagie Mellon university phonetic dictionary (Oct 17) ** <br/>
-the basics of morphophonology : main concepts, open access databases
-Assignment : recode with IPA symbols, a few regex scripts for data wrangling 
+**5. NB (JB): : case study 1.  the Carnagie Mellon university phonetic dictionary (Oct 17)** <br/>
+the basics of morphophonology : main concepts, open access databases <br/>
+Assignment : recode with IPA symbols, a few regex scripts for data wrangling <br/> 
 
 
 **6 JB (NB) the CMU dictionary and related python libraries (Oct 24)**

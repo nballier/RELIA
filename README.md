@@ -5,7 +5,7 @@ IRéel Project Université de Paris 2019-2020
 
 
 Objectifs du cours :
->> Ce cours vise à la transmission des compétences initiales pour la soumission d’abstract à des conférences dans le domaine des humanités numériques. On cherchera à décrire les problématique linguistiques et les jeux de données envisagés pour les analyser, décrire ces données et établir les traitements automatiques nécessaires.
+> Ce cours vise à la transmission des compétences initiales pour la soumission d’abstract à des conférences dans le domaine des humanités numériques. On cherchera à décrire les problématique linguistiques et les jeux de données envisagés pour les analyser, décrire ces données et établir les traitements automatiques nécessaires.
 
 
 Fonctionnement :

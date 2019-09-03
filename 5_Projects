@@ -1,0 +1,33 @@
+
+
+5. Selected projects and references (A brief description of the projects and stepping stones to the projects)  PROVISIONAL
+TODO Write the project in details, List the research questions and plan the data processing
+
+
+2 projects in Phonetics / phonology about syllable structures, based on the analysis of the CMU dictionary library (pronouncing) 
+
+more advanced : compare syllable counts in the Pychant/pyphen libraries and the pronouncing 
+
+
+
+2 projects in morphology investigating 18th century dictionaries 
+- using NLTK / Linguistica : can we compare the differences in suffixation with modern dictionaries?
+- using TreeTagger to analyse Buchanan and Walker : can we predict the words that have become obsolete?
+
+
+*Several projects in grammar investigating the annotation of "that" and the relative versus noun complement clause distinction* 
+
+- Wordnet : using the NLTK wordnet resources, can we predict the nouns that would have the same properties as nouns governing noun complement clauses (submission, assumption, fact) 
+
+- Can Treetagger learn how to tag 'that' for relative clauses / noun complement clauses ?
+
+- can we teach NLTK how to tag 'that' for relative clauses / noun complement clauses ?
+
+- can we teach NLTK how to tag 'that' when adverbial  (it's not that difficult)
+
+- using the spaCy library, can we retrieve noun complement clauses  with a script ?
+
+
+More advanced : 
+
+

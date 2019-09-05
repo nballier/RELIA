@@ -20,7 +20,7 @@ From sound to meaning, basic terms and available linguistic programs
 the architecture of a scientific paper (stylesheet as textual structure)\\
 LAteX for posters and presentations, etc.\\
 
-**4. NB : Projects, presentation (Oct. 10)
+**4. NB : Projects, presentation (Oct. 10)** <br/>
 
 
 **5. JB  The art of writing a conference abstract, finding references on Google Scholar, storing them with Zotero/Mendeley in Bibtex format (Oct. 17).** <br/>

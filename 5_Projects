@@ -5,6 +5,8 @@ TODO Write the project in details, List the research questions and plan the data
 
 
 2 projects in Phonetics / phonology about syllable structures, based on the analysis of the CMU dictionary library (pronouncing) 
+  - exploitation du dictionnary CMU (libre) (extraction de données contextuelle syllabiques)
+  - autre dictionnaire le CELEX (sous licence)
 
 more advanced : compare syllable counts in the Pychant/pyphen libraries and the pronouncing 
 

@@ -4,6 +4,7 @@
 TODO Write the project in details, List the research questions and plan the data processing
 
 
+
 2 projects in Phonetics / phonology about syllable structures, based on the analysis of the CMU dictionary library (pronouncing) 
   - exploitation du dictionnary CMU (libre) (extraction de données contextuelle syllabiques)
   - autre dictionnaire le CELEX (sous licence)
@@ -28,6 +29,10 @@ more advanced : compare syllable counts in the Pychant/pyphen libraries and the 
 - can we teach NLTK how to tag 'that' when adverbial  (it's not that difficult)
 
 - using the spaCy library, can we retrieve noun complement clauses  with a script ?
+
+
+To find out about relative clauses vs. noun complement clauses, see page 4 of this paper:
+https://www.researchgate.net/publication/297700952_La_completive_du_nom_dans_le_discours_des_linguistes
 
 
 More advanced : 

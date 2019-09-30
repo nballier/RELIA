@@ -16,7 +16,7 @@ From sound to meaning, basic terms and available linguistic programs
   [English parsing, Part-of-speech tagging, Stanford's suite of tools:](http://corenlp.run/) <br/>
 
 
-**3. JB : Using Latex and templates for papers (Oct 3)** <br/>
+**3. JB : End of Introduction to Python + Using Latex and templates for papers (Oct 3)** <br/>
 the architecture of a scientific paper (stylesheet as textual structure) <br/>
 LAteX for posters and presentations, etc. <br/>
 [Sample templates for conferences : TALN2019]  (https://www.irit.fr/pfia2019/wp-content/uploads/2018/12/style_taln2019.tar.gz)  <br/>
@@ -39,7 +39,7 @@ Assignment: create an overleaf abstract, search models for abstracts for confere
 Assignment : prepare a template for an [LREC2020 paper](https://lrec2020.lrec-conf.org/en/)<br/>
 
 
-**6. NB (JB): : case study 1.  the Carnagie Mellon university phonetic dictionary (Oct 24)** <br/>
+**6. NB (JB): : case study 1.  the Carnegie Mellon university phonetic dictionary (Oct 24)** <br/>
 the basics of morphophonology : main concepts, open access databases <br/>
 Assignment : recode with IPA symbols, a few regex scripts for data wrangling <br/> 
 

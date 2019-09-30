@@ -85,11 +85,11 @@ ALTERNATE 12. Designing a poster (overleaf) <br/>
 
 **POSTER SESSION : January 17th, 9h30-12h30**
 Paris Descartes, 5 rue des Saint pères <br/>
-- information about MAs (Paris 5 / Paris 7)
-- MA students from the master in Machine Learning for Data Science 
+- information about MAs (Paris 5 / Paris 7)  <br/>
+- MA students from the master in Machine Learning for Data Science  <br/>
 
 
 **Second semester** 
 Scikit-learn: Machine Learning in Python (Pedregosa et al. 2011): the basics
 
-Motivated students will submit a collective paper.
+Motivated students will submit a collective paper, probably in the second semester.

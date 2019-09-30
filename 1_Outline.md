@@ -19,8 +19,19 @@ From sound to meaning, basic terms and available linguistic programs
 **3. JB : Using Latex and templates for papers (Oct 3)** <br/>
 the architecture of a scientific paper (stylesheet as textual structure)\\
 LAteX for posters and presentations, etc.\\
+[Sample templates for conferences : TALN2019]  (https://www.irit.fr/pfia2019/wp-content/uploads/2018/12/style_taln2019.tar.gz) \\
+[Model abstracts from The Linguistic Society of America](https://www.linguisticsociety.org/resource/model-abstracts)\\
+[For Zotero and BibteX format: Advanced Zotero] (https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=5977) \\
+[For Zotero : Basic Zotero] (https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=9710) \\
+
+-> Begin searching Google Scholar and keeping .BIB files with initial references \\
+
+
+
 
 **4. NB : Projects, presentation (Oct. 10)** <br/>
+Details, references and first assignments for your projects.
+
 
 
 **5. JB  The art of writing a conference abstract, finding references on Google Scholar, storing them with Zotero/Mendeley in Bibtex format (Oct. 17).** <br/>

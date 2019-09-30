@@ -11,20 +11,20 @@ Assignment : with your classmate : install the CMU library, install Latex (creat
 From sound to meaning, basic terms and available linguistic programs
 -> outline the project and the learning curve  
  Describe available tools for automatic analysis of linguistic data
-  [Phonetic conversion (and text to speech)](https://tophonetics.com/)\\
-  [French parsing on line](http://5.135.166.30/send2UDPIPE.html)\\
-  [English parsing, Part-of-speech tagging, Stanford's suite of tools:](http://corenlp.run/)\\
+  [Phonetic conversion (and text to speech)](https://tophonetics.com/) <br/>
+  [French parsing on line](http://5.135.166.30/send2UDPIPE.html) <br/>
+  [English parsing, Part-of-speech tagging, Stanford's suite of tools:](http://corenlp.run/) <br/>
 
 
 **3. JB : Using Latex and templates for papers (Oct 3)** <br/>
-the architecture of a scientific paper (stylesheet as textual structure)\\
-LAteX for posters and presentations, etc.\\
-[Sample templates for conferences : TALN2019]  (https://www.irit.fr/pfia2019/wp-content/uploads/2018/12/style_taln2019.tar.gz) \\
-[Model abstracts from The Linguistic Society of America](https://www.linguisticsociety.org/resource/model-abstracts)\\
-[For Zotero and BibteX format: Advanced Zotero] (https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=5977) \\
-[For Zotero : Basic Zotero] (https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=9710) \\
+the architecture of a scientific paper (stylesheet as textual structure) <br/>
+LAteX for posters and presentations, etc. <br/>
+[Sample templates for conferences : TALN2019]  (https://www.irit.fr/pfia2019/wp-content/uploads/2018/12/style_taln2019.tar.gz)  <br/>
+[Model abstracts from The Linguistic Society of America](https://www.linguisticsociety.org/resource/model-abstracts)  <br/>
+[For Zotero and BibteX format: Advanced Zotero] (https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=5977)  <br/>
+[For Zotero : Basic Zotero] (https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=9710)  <br/>
 
--> Begin searching Google Scholar and keeping .BIB files with initial references \\
+-> Begin searching Google Scholar and keeping .BIB files with initial references  <br/>
 
 
 

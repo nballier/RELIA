@@ -16,7 +16,7 @@ From sound to meaning, basic terms and available linguistic programs
   [English parsing, Part-of-speech tagging, Stanford's suite of tools:](http://corenlp.run/) <br/>
 
 
-**3. JB : End of Introduction to Python + Short introduction to LaTeX (Oct 3)** <br/>
+**3. JB : End of Introduction to Python + (Very) Short introduction to LaTeX (Oct 3)** <br/>
 the architecture of a scientific paper (stylesheet as textual structure) <br/>
 LAteX for posters and presentations, etc. <br/>
 [Sample templates for conferences : TALN2019]  (https://www.irit.fr/pfia2019/wp-content/uploads/2018/12/style_taln2019.tar.gz)  <br/>

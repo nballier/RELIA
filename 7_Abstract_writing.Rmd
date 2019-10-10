@@ -1,0 +1,23 @@
+Use the TALN2019 LaTeX package for the abstract (use the template)
+
+
+TITLE
+one sentence that describes the whole project
+
+SOA (State of the Art)
+summarize previous studies, give examples of results
+-> explain your contribution based on what is missing
+
+DATA & METHODS
+charactezize your data. 
+Characterise the different steps
+
+
+RESULTS (the Take Home Message)
+
+
+(Critical outlook)
+
+REFERENCES (APA)
+Abide by the APA style for your references.
+

@@ -1,8 +1,8 @@
 
 
-5. Selected projects and references (A brief description of the projects and stepping stones to the projects)  PROVISIONAL
-TODO Write the project in details, List the research questions and plan the data processing
+*5. Selected projects and references (A brief description of the projects and stepping stones to the projects)  PROVISIONAL*
 
+TODO Write the project in details, List the research questions and plan the data processing
 
 
 2 projects in Phonetics / phonology about syllable structures, based on the analysis of the CMU dictionary library (pronouncing) 
@@ -11,11 +11,33 @@ TODO Write the project in details, List the research questions and plan the data
 
 more advanced : compare syllable counts in the Pychant/pyphen libraries and the pronouncing 
 
+REFERENCES:
+CMU 
+http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+latest version in the SPHINX environment (for text-to speech with American Pronunciation:
+http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/cmudict-0.7b
+SPHINX on githib: https://github.com/cmusphinx/cmudict
+
+As explained on the website,
+http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+the "phoneme set" is based on ARPABET, see the CMUPhonemeSet.txt file for conversions.
+
+The latest CMU version can be downloaded from 
+http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/cmudict-0.7b
+
+The data with syllables http://webdocs.cs.ualberta.ca/~kondrak/cmudict/cmudict.rep
+is based on the CELEX syllable boundaries (not a good idea-NB) as explained in Bartlett et al. 2009.
+Susan Bartlett, Grzegorz Kondrak and Colin Cherry (2009) 
+On the Syllabification of Phonemes.NAACL-HLT 2009.
+
 
 
 2 projects in morphology investigating 18th century dictionaries 
+
 - using NLTK / Linguistica : can we compare the differences in suffixation with modern dictionaries?
 - using TreeTagger to analyse Buchanan and Walker : can we predict the words that have become obsolete?
+
+
 
 
 *Several projects in grammar investigating the annotation of "that" and the relative versus noun complement clause distinction* 

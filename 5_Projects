@@ -1,7 +1,6 @@
 
 *5. Selected projects and references (A brief description of the projects and stepping stones to the projects)  PROVISIONAL*
 
-
 TODO Write the project in details, List the research questions and plan the data processing
 
 
@@ -11,8 +10,6 @@ RQ1 : Can we use TreeTagger to analyse Buchanan and Walker : can we predict the 
 RQ2 : Can we train Treetagger with 18th centur data ?
 
 INSTRUCTIONS: get the data and install Treetagger.
-
-
 
 2. Project in text generation  (to be specified)
 (Claude, Guillaume)
@@ -38,5 +35,8 @@ pr.rhymes("failings")
 pr.rhyming_part(pr.phones)
 logical values and test : do these words rhyme?
 
-Instruction : Generate Heptasyllabic poemes
+Instruction :  investigate the Carnegie Mellon university phonetic dictionary <br/>
+http://www.speech.cs.cmu.edu/cgi-bin/cmudict <br/>
+Look at stress patterns for words (and stress notation: 2, 1, 0) <br/>
+Generate Heptasyllabic poems <br/>
 

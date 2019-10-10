@@ -13,7 +13,7 @@ INSTRUCTIONS: get the data and install Treetagger.
 
 2. Project in text generation  (to be specified)
 (Claude, Guillaume)
-Read papers, Specify the type of text generation (tool) and your research question.
+INSTRUCTIONS : Read papers, Specify the type of text generation (tool) and your research question.
 
 
 * 3. A Pragmatic Approach to chatbots (Making sense with a chatbot?)
@@ -21,11 +21,12 @@ Read papers, Specify the type of text generation (tool) and your research questi
 
 INSTRUCTIONS: Install the Eliza python (github), discuss the limitations
 Investigate the Alice (AIML) robot, Sofia and other robots.
-RQ: investigate the semantic 
+RQ: investigate the semantic and pragamtic aspects of the interaction with the chatbot.
 
 
-*4. Text generation with phonological constraints (Rap MAchine)*
+*4. Text generation with phonological constraints (Rap Machine)*
 (Eitanite, Hind, Nelson)
+
 
 INSTRUCTIONS:
 The pronouncing package and its youtube tutorial: generate poems with the pronouncing library / https://www.youtube.com/watch?v=W0pdPNh86H0
@@ -35,7 +36,7 @@ pr.rhymes("failings")
 pr.rhyming_part(pr.phones)
 logical values and test : do these words rhyme?
 
-Instruction :  investigate the Carnegie Mellon university phonetic dictionary <br/>
+INSTRUCTIONS :  investigate the Carnegie Mellon university phonetic dictionary <br/>
 http://www.speech.cs.cmu.edu/cgi-bin/cmudict <br/>
 Look at stress patterns for words (and stress notation: 2, 1, 0) <br/>
 Generate Heptasyllabic poems <br/>

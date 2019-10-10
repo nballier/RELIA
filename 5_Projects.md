@@ -4,8 +4,8 @@
 TODO Write the project in details, List the research questions and plan the data processing
 
 
-**1. Project in morphology investigating 18th century dictionaries**  
-(Blanche, Dao , François, Preethi)
+**1. Project in morphology investigating 18th century dictionaries**  <br/>
+(Blanche, Dao , François, Preethi) <br/>
 RQ1 : Can we use TreeTagger to analyse Buchanan and Walker : can we predict the words that have become obsolete?
 RQ2 : Can we train Treetagger with 18th centur data ?
 
@@ -25,8 +25,8 @@ Investigate the Alice (AIML) robot, Sofia and other robots.
 RQ: investigate the semantic and pragamtic aspects of the interaction with the chatbot.
 
 
-**4. Text generation with phonological constraints (Rap Machine)**
-(Eitanite, Hind, Nelson)
+**4. Text generation with phonological constraints (Rap Machine)** <br/>
+(Eitanite, Hind, Nelson) <br/>
 
 INSTRUCTIONS:
 The pronouncing package and its youtube tutorial: generate poems with the pronouncing library / https://www.youtube.com/watch?v=W0pdPNh86H0

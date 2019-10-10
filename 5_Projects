@@ -1,62 +1,42 @@
 
-
 *5. Selected projects and references (A brief description of the projects and stepping stones to the projects)  PROVISIONAL*
+
 
 TODO Write the project in details, List the research questions and plan the data processing
 
 
-2 projects in Phonetics / phonology about syllable structures, based on the analysis of the CMU dictionary library (pronouncing) 
-  - exploitation du dictionnary CMU (libre) (extraction de données contextuelle syllabiques)
-  - autre dictionnaire le CELEX (sous licence)
+1. Project in morphology investigating 18th century dictionaries  
+(Blanche, Das, François, Preethi)
+RQ1 : Can we use TreeTagger to analyse Buchanan and Walker : can we predict the words that have become obsolete?
+RQ2 : Can we train Treetagger with 18th centur data ?
 
-more advanced : compare syllable counts in the Pychant/pyphen libraries and the pronouncing 
-
-REFERENCES:
-CMU 
-http://www.speech.cs.cmu.edu/cgi-bin/cmudict
-latest version in the SPHINX environment (for text-to speech with American Pronunciation:
-http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/cmudict-0.7b
-SPHINX on githib: https://github.com/cmusphinx/cmudict
-
-As explained on the website,
-http://www.speech.cs.cmu.edu/cgi-bin/cmudict
-the "phoneme set" is based on ARPABET, see the CMUPhonemeSet.txt file for conversions.
-
-The latest CMU version can be downloaded from 
-http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/cmudict-0.7b
-
-The data with syllables http://webdocs.cs.ualberta.ca/~kondrak/cmudict/cmudict.rep
-is based on the CELEX syllable boundaries (not a good idea-NB) as explained in Bartlett et al. 2009.
-Susan Bartlett, Grzegorz Kondrak and Colin Cherry (2009) 
-On the Syllabification of Phonemes.NAACL-HLT 2009.
+INSTRUCTIONS: get the data and install Treetagger.
 
 
 
-2 projects in morphology investigating 18th century dictionaries 
-
-- using NLTK / Linguistica : can we compare the differences in suffixation with modern dictionaries?
-- using TreeTagger to analyse Buchanan and Walker : can we predict the words that have become obsolete?
-
+2. Project in text generation  (to be specified)
+(Claude, Guillaume)
+Read papers, Specify the type of text generation (tool) and your research question.
 
 
+* 3. A Pragmatic Approach to chatbots (Making sense with a chatbot?)
+(Emma, Sawssen)
 
-*Several projects in grammar investigating the annotation of "that" and the relative versus noun complement clause distinction* 
-
-- Wordnet : using the NLTK wordnet resources, can we predict the nouns that would have the same properties as nouns governing noun complement clauses (submission, assumption, fact) 
-
-- Can Treetagger learn how to tag 'that' for relative clauses / noun complement clauses ?
-
-- can we teach NLTK how to tag 'that' for relative clauses / noun complement clauses ?
-
-- can we teach NLTK how to tag 'that' when adverbial  (it's not that difficult)
-
-- using the spaCy library, can we retrieve noun complement clauses  with a script ?
+INSTRUCTIONS: Install the Eliza python (github), discuss the limitations
+Investigate the Alice (AIML) robot, Sofia and other robots.
+RQ: investigate the semantic 
 
 
-To find out about relative clauses vs. noun complement clauses, see page 4 of this paper:
-https://www.researchgate.net/publication/297700952_La_completive_du_nom_dans_le_discours_des_linguistes
+*4. Text generation with phonological constraints (Rap MAchine)*
+(Eitanite, Hind, Nelson)
 
+INSTRUCTIONS:
+The pronouncing package and its youtube tutorial: generate poems with the pronouncing library / https://www.youtube.com/watch?v=W0pdPNh86H0
+1 hour youtube video for reverse engineering : find how the functions do what they do
+extend functions from the demo
+pr.rhymes("failings")
+pr.rhyming_part(pr.phones)
+logical values and test : do these words rhyme?
 
-More advanced : 
-
+Instruction : Generate Heptasyllabic poemes
 

@@ -17,7 +17,7 @@ INSTRUCTIONS: get the data and install Treetagger.
 INSTRUCTIONS : Read papers, Specify the type of text generation (tool) and your research question.
 
 
-** 3. A Pragmatic Approach to chatbots (Making sense with a chatbot?)**
+** 3. A Pragmatic Approach to chatbots (Making sense with a chatbot?)** <br/>
 (Emma, Sawssen)
 
 INSTRUCTIONS: Install the Eliza python (github), discuss the limitations

@@ -6,7 +6,7 @@ TODO Write the project in details, List the research questions and plan the data
 
 
 1. Project in morphology investigating 18th century dictionaries  
-(Blanche, Das, François, Preethi)
+(Blanche, Dao , François, Preethi)
 RQ1 : Can we use TreeTagger to analyse Buchanan and Walker : can we predict the words that have become obsolete?
 RQ2 : Can we train Treetagger with 18th centur data ?
 

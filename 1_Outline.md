@@ -31,7 +31,7 @@ See page 3 for the first instructions for the different projects. <br/>
 
 Begin writing your abstract (see document 7), search for references, store your bibliography using LaTeX / zotero.
 [For Zotero and BibteX format: Advanced Zotero](https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=5977)  <br/>
-[For Zotero : Basic Zotero] (https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=9710)  <br/>
+[For Zotero : Basic Zotero](https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=9710)  <br/>
 
 
 

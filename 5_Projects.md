@@ -12,21 +12,23 @@ ALL: collect BibTex references in a .BIB file, begin writing the abstract/ poste
 (Eitanite, Hind, Nelson) <br/>
 (phonological, rhythmic pattern, text generation)
 
-
 INSTRUCTIONS:
 The pronouncing package and its youtube tutorial: generate poems with the pronouncing library / https://www.youtube.com/watch?v=W0pdPNh86H0
-1 hour youtube video for reverse engineering : find how the functions do what they do
+1 hour youtube video for reverse engineering : find how the functions do what they do,
 extend functions from the demo
 pr.rhymes("failings")
 pr.rhyming_part(pr.phones)
 logical values and test : do these words rhyme?
-
 
 INSTRUCTIONS :  investigate the Carnegie Mellon university phonetic dictionary <br/>
 http://www.speech.cs.cmu.edu/cgi-bin/cmudict <br/>
 Look at stress patterns for words (and stress notation: 2, 1, 0) <br/>
 Generate Heptasyllabic poems <br/>
 Search for text-generation githubs, detail corpora (2pac?), detail the patterns generated
+
+Suggestions: 
+check the Jabberwocky implementation
+OULIPO RAP: use only certain vowels in your poem.
 
 ASSIGNMENT : in class,  present the CMU dictionary as a resource and the corresponding library (CMU, pronouncing).
 
@@ -48,13 +50,16 @@ Use Treetagger in learning mode . Find a lexicon for Treetagger.
 
 ASSIGNMENT : in class,  present the Penn Treebank as a tasget and Treetagger as a tool.
 
+Next step: analyse Treetagger results : precision and recall of the PoS-tagger.
 Next stage: use Linguistica to analyse Walker's corpus of definitions
+
 
 
 **3. Project in text generation (literary creation of a text to be specified)**
 (Claude, Guillaume)
 
 INSTRUCTIONS : Read papers, Specify the size of text generated (chapter? epilogue) and your research question. Specify the raining data and the features that have been used to generate the text.
+
 
 
 **4. A Pragmatic Approach to chatbots (Making sense with a chatbot?)**  <br/>

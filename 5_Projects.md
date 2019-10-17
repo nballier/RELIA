@@ -30,7 +30,7 @@ Suggestions:
 check the Jabberwocky implementation
 OULIPO RAP: use only certain vowels in your poem.
 
-ASSIGNMENT : in class,  present the CMU dictionary as a resource and the corresponding library (CMU, pronouncing).
+ASSIGNMENT : in class,  present the CMU dictionary as a resource and the corresponding libraries (CMU, pronouncing).
 
 
 **2. Two Projects in morphology investigating 18th century dictionaries**  <br/>

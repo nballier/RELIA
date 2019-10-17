@@ -55,10 +55,10 @@ Next stage: use Linguistica to analyse Walker's corpus of definitions
 
 
 
-**3. Project in text generation (literary creation of a text to be specified)**
+**3. Project in text summarisation for literary texts** <br/>
 (Claude, Guillaume)
 
-INSTRUCTIONS : Read papers, Specify the size of text generated (chapter? epilogue) and your research question. Specify the raining data and the features that have been used to generate the text.
+INSTRUCTIONS : Read papers, Specify your research question. Specify the training data and the features that have been used to generate the summaries. List existing tools and previous research. Run existing programs with literary works you know and evaluate the resulats.
 
 
 

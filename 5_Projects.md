@@ -5,7 +5,7 @@ TODO Write the project in details, List the research questions and plan the data
 
 
 ALL: collect BibTex references in a .BIB file, begin writing the abstract/ poster sections. 
-(abstract, RQ, SOA, training data, results, future research)
+(define keywords, abstract, RQ, SOA, training data, results, future research)
 
 
 **1. Text generation with phonological constraints (Rap Machine)** <br/>
@@ -43,16 +43,19 @@ RQ2 : Can we train Treetagger with 18th century data ?
 Can Treetagger learn Walker's grammatical categories (ie "s." for substantives, both NN1 and NNS) 
 
 INSTRUCTIONS: get the data and install Treetagger. Done
-Extract pos, entries and definitions (senses) from Walker's dictionary
-Use Treetagger in learning mode . Find a lexicon for Treetagger
+Extract pos, entries and definitions (senses) from Walker's dictionary.
+Use Treetagger in learning mode . Find a lexicon for Treetagger. 
 
 ASSIGNMENT : in class,  present the Penn Treebank as a tasget and Treetagger as a tool.
+
+Next stage: use Linguistica to analyse Walker's corpus of definitions
 
 
 **3. Project in text generation (literary creation of a text to be specified)**
 (Claude, Guillaume)
 
-INSTRUCTIONS : Read papers, Specify the size of text generated (chapter? epilogue) and your research question. Specify the raining data and the features that hve been used to 
+INSTRUCTIONS : Read papers, Specify the size of text generated (chapter? epilogue) and your research question. Specify the raining data and the features that have been used to generate the text.
+
 
 **4. A Pragmatic Approach to chatbots (Making sense with a chatbot?)**  <br/>
 (Emma, Sawssen)
@@ -60,7 +63,6 @@ INSTRUCTIONS : Read papers, Specify the size of text generated (chapter? epilogu
 INSTRUCTIONS: Install the Eliza python (github), discuss the limitations
 Investigate the Alice (AIML) robot, Sofia and other robots.
 RQ: investigate the semantic and pragmatic aspects of the interaction with the chatbot.
-
 
 
 

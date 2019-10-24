@@ -36,11 +36,13 @@ pr.rhymes("failings")
 pr.rhyming_part(pr.phones)
 logical values and test : do these words rhyme?
 
+
 INSTRUCTIONS :  investigate the Carnegie Mellon university phonetic dictionary <br/>
 http://www.speech.cs.cmu.edu/cgi-bin/cmudict <br/>
 Look at stress patterns for words (and stress notation: 2, 1, 0) <br/>
 Generate Heptasyllabic poems <br/>
-Search for text-generation githubs, detail corpora (2pac?), detail the patterns generated
+Search for text-generation githubs, 
+Eitanite : analyse one example of your training corpora (2pac?), detail the phonological/semantic patterns you observe, discuss how you may generate texts implenting these features.
 
 Suggestions: 
 check the Jabberwocky implementation
@@ -48,6 +50,7 @@ OULIPO RAP: use only certain vowels in your poem.
 
 
 ASSIGNMENT : in class,  present the CMU dictionary as a resource and the corresponding libraries (CMU, pronouncing). (Nov 21st?)
+
 
 **2. Two Projects in morphology investigating 18th century dictionaries**  <br/>
 (Blanche, Dao , François, Preethi): 2 projects for 4 students <br/>

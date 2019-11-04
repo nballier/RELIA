@@ -44,29 +44,28 @@ TO BE DONE: <br/>
 Precison and recall for PoS-taggers.<br/>
 Open data, open source and replicability. The case for Open Data https://lrec2020.lrec-conf.org/en/reprolang2020/call-for-papers/ <br/> 
 
-
-
 **6. NB (JB): : case study 1. regex with  the Carnegie Mellon university phonetic dictionary (Oct 24)** <br/>
 CMU dictionary : http://www.speech.cs.cmu.edu/cgi-bin/cmudict <br/>
 the basics of morphophonology : main concepts, open access databases <br/>
 Assignment : recode with IPA symbols, a few regex scripts for data wrangling <br/> 
 
 
-
-**7 JB (NB) the CMU dictionary and related python libraries (Nov 7)** <br/>
+**7 JB  Regex, jupyter notebooks and the CMU dictionary (Nov 7)** <br/>
+regex: question time
 [library pronouncing](https://pronouncing.readthedocs.io/en/latest/tutorial.html)
 data cleaning  and data wrangling on the CMU (regex) <br/>
 setting up your own github and post your first scripts <br/>
+playing with jupyter notebooks:
+[CMU and NLTK](https://github.com/nballier/RELIA/blob/master/CMU-nltk-vol1.ipynb)
+[playing with 18th century dictionaries](https://hub.gke.mybinder.org/user/mshs-poitiers-f-lis-dicodiachro-r25tkium/notebooks/Buchanan_eng.ipynb)
+Regular expressions (regex) : 
+Assignment : find all the words with the KIT vowel, find all the words ending in -ic, -ation, find all the words with a stress on the last syllable
 
-
-**8. NB (JB) Creating a dataset : out of the CMU dictionary (Nov 14)**  <br/>
-Regular expressions (regex) : find all the words ending in -ic, -ation, 
-Assignment : find all the words with the KIT vowel. 
+**8. NB (JB) Abstracts, poster preparation **  <br/>
+Meeting at 800 for breakfast in room 209 !!
 
 **9. JB:  writing your first Jupyter notebook (Nov 21)** <br/>
 Assignment : submitting your abstract / read existing notebooks on 18th century dictionaries <br/>
-
-
 
 **10. NB: Buchanan dictionary : suffix extraction and the Linguistica tool and library (Nov 28)** <br/>
 [Examples with Buchanan's dictionary:](https://nbviewer.jupyter.org/urls/gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro/raw/master/Buchanan_eng.ipynb?flush_cache=true) <br/>

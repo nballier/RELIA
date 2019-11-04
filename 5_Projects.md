@@ -22,8 +22,6 @@ Jupyter notebooks : an appraisal
 
 
 
-
-
 **1. Text generation with phonological constraints (Rap Machine)** <br/>
 (Eitanite, Hind, Nelson) <br/>
 (phonological, rhythmic pattern, text generation)
@@ -48,8 +46,9 @@ Suggestions:
 check the Jabberwocky implementation
 OULIPO RAP: use only certain vowels in your poem.
 
-
 ASSIGNMENT : in class,  present the CMU dictionary as a resource and the corresponding libraries (CMU, pronouncing). (Nov 21st?)
+
+Jupyter Notebook 
 
 
 **2. Two Projects in morphology investigating 18th century dictionaries**  <br/>
@@ -72,6 +71,8 @@ ASSIGNMENT : in class,  present the Penn Treebank as a tasget and Treetagger as 
 Next step: analyse Treetagger results : precision and recall of the PoS-tagger.
 Next stage: use Linguistica to analyse Walker's corpus of definitions
 
+
+[Sample Jupyter notebook](https://nbviewer.jupyter.org/urls/gitlab.huma-num.fr/mshs-poitiers/forellis/dicodiachro/raw/master/Buchanan_eng.ipynb?flush_cache=true)
 
 **3. Project in text summarisation for literary texts** <br/>
 (Claude, Guillaume)

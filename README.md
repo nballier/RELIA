@@ -13,3 +13,13 @@ IRéEL Project Université de Paris 2019-2020
 - Les séances alterneront entre informatique et linguistique, si possible toutes les semaines.
 - Après deux séances introductives, le suivi se fera au plus près des                                                                                           projets conduits par chaque binôme.
 - L’enseignement serait effectué en français mais les productions seraient en langue anglaise (abstract de conférence, blog, poster et article collectif final).
+
+
+
+
+
+
+
+This project was supported by IdEx Université de Paris ANR-18-IDEX-0001
+
+
